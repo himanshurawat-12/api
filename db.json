@@ -1,13 +1,4 @@
-
-    {
-      manuscriptNumber: 'M12345',
-      vendor: 'Vendor A',
-      vendorLink: 'vendor-details/A',
-      journalId: 'J001',
-      notes: 'Initial submission',
-      receivedDate: '2025-03-01',
-      dueDate: '2025-04-15',
-      exceptionFlag: false,
-      status: 'In Progress'
-    }
-  
+{
+  "id": 1,
+  "title": "hello"
+}
